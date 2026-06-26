@@ -30,7 +30,7 @@
 - **Accuracy - Doğruluk:** Achieved a **approximately 66% validation accuracy rate** in VGG16 model. 
 <table align="center">
   <tr align="center">
-    <td><img src="ekran1.png" width="300"><br><b>Mobil Görünüm</b></td>
+    <td><img width="100%" alt="image" src="https://github.com/user-attachments/assets/f54e0337-b353-4ada-8554-89d926cd48cc" /><br><b>VGG19 training and validation accuracy - VGG19 eğitim ve validasyon doğruluk oranı</b></td>
     <td><img src="ekran2.png" width="300"><br><b>Masaüstü Görünüm</b></td>
   </tr>
 </table>
