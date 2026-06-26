@@ -51,7 +51,7 @@ VGG19 modelinde yaklaşık **66% validasyon doğruluk oranı** elde edilmiştir.
 InceptionV3 modelinde yaklaşık **63% validasyon doğruluk oranı** elde edilmiştir. 
 <table align="center">
   <tr align="center">
-    <td><img width="%100" alt="image" src="https://github.com/user-attachments/assets/81f3a266-9ac0-4525-9019-2a3a94394cb2" /><br><b>InceptionV3 training and validation accuracy - InceptionV3 eğitim ve validasyon doğrulul oranı</b></td>
+    <td><img width="%100" alt="image" src="https://github.com/user-attachments/assets/81f3a266-9ac0-4525-9019-2a3a94394cb2" /><br><b>InceptionV3 training and validation accuracy - InceptionV3 eğitim ve validasyon doğruluk oranı</b></td>
     <td><img width="%100"  alt="image" src="https://github.com/user-attachments/assets/52e4ccec-8555-4ebb-9baf-3aa1827811ac" />
 <br><b>InceptionV3 training and validation loss - InceptionV3 eğitim ve validasyon kaybı</b></td>
   </tr>
@@ -71,7 +71,7 @@ Dense modeline **66% validasyon doğruluk oranı** elde edilmiştir.
 
 <table align="center">
   <tr align="center">
-    <td><img src="ekran1.png" width="300"><br><b>Mobil Görünüm</b></td>
+    <td><img width="737" height="627" alt="image" src="https://github.com/user-attachments/assets/1f56b79a-b3a8-4905-a8ad-f656a1cc65ca" /><br><b>correlation matrix of Dense model - Dense modelinin korelasyon matrisi</b></td>
   </tr>
 </table>
 
