@@ -40,7 +40,7 @@ VGG19 modelinde yaklaşık **66% validasyon doğruluk oranı** elde edilmiştir.
 
 <table align="center">
   <tr align="center">
-    <td><img width="%100" alt="image" src="https://github.com/user-attachments/assets/5cf496d9-3d65-46ac-9176-25036fdeb039" /><br><sub><b>correlation matrix of VGG19 model - VGG19 modelinin korelasyon matrisi</b></sub></td>
+    <td><img width="%100" alt="image" src="https://github.com/user-attachments/assets/5cf496d9-3d65-46ac-9176-25036fdeb039" /><br><b>correlation matrix of VGG19 model - VGG19 modelinin korelasyon matrisi</b></td>
   </tr>
 </table>
 <hr>
@@ -60,7 +60,7 @@ InceptionV3 modelinde yaklaşık **63% validasyon doğruluk oranı** elde edilmi
 Korelasyon matrisi
 <table align="center">
   <tr align="center">
-    <td><img width="%100"  alt="image" src="https://github.com/user-attachments/assets/aecf59d7-8084-475a-96ec-24f05dfa5d0e" /><br><sub><b>correlation matrix of InceptionV3 model - InceptionV3 modelinin korelasyon matrisi</b></sub></td>
+    <td><img width="%100"  alt="image" src="https://github.com/user-attachments/assets/aecf59d7-8084-475a-96ec-24f05dfa5d0e" /><br><b>correlation matrix of InceptionV3 model - InceptionV3 modelinin korelasyon matrisi</b></td>
   </tr>
 </table>
 
@@ -68,7 +68,8 @@ Korelasyon matrisi
 ---
 - **Accuracy - Doğruluk:** Achieved a **66% validation accuracy rate** in Dense model.
 Dense modeline **66% validasyon doğruluk oranı** elde edilmiştir.
-
+- Correlation matrix depicts alignment of true labels and predicted labels in terms of emotion classes of ferplus expression dataset.
+Korelasyon matrisi ferplus veri setinin yüz görüntülerine ait duygu sınıflarının gerçek ve tahmin etiketlerinin uyuşma oranlarını göstermektedir. 
 <table align="center">
   <tr align="center">
     <td><img width="737" height="627" alt="image" src="https://github.com/user-attachments/assets/1f56b79a-b3a8-4905-a8ad-f656a1cc65ca" /><br><b>correlation matrix of Dense model - Dense modelinin korelasyon matrisi</b></td>
