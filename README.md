@@ -30,7 +30,7 @@
 ##VGG19 performance metrics - VGG19 performans metrikleri
 ---
 - **Accuracy - Doğruluk:** Achieved a **approximately 66% validation accuracy rate** in VGG16 model.
-VGG19 modelinde yaklaşık 66% validasyon doğruluk oranı elde edilmiştir. 
+VGG19 modelinde yaklaşık **66% validasyon doğruluk oranı** elde edilmiştir. 
 <table align="center">
   <tr align="center">
     <td><img width="%100" alt="image" src="https://github.com/user-attachments/assets/f54e0337-b353-4ada-8554-89d926cd48cc" /><br><b>VGG19 training and validation accuracy - VGG19 eğitim ve validasyon doğruluk oranı</b></td>
@@ -47,7 +47,8 @@ VGG19 modelinde yaklaşık 66% validasyon doğruluk oranı elde edilmiştir.
 
 ##InceptionV3 performance metrics - InceptionV3 performans metrikleri
 --- 
-- **Accuracy - Doğruluk**
+- **Accuracy - Doğruluk:** Achieved a **approximately 63% validation accuracy rate** in InceptionV3 model.
+InceptionV3 modelinde yaklaşık **63% validasyon doğruluk oranı** elde edilmiştir. 
 <table align="center">
   <tr>
     <td><img width="%100" alt="image" src="https://github.com/user-attachments/assets/81f3a266-9ac0-4525-9019-2a3a94394cb2" /><br><b>InceptionV3 training and validation accuracy - InceptionV3 eğitim ve validasyon doğrulul oranı</b></td>
@@ -56,12 +57,9 @@ VGG19 modelinde yaklaşık 66% validasyon doğruluk oranı elde edilmiştir.
   </tr>
 </table>
 
-<p align="center">
-  <img src="gorsel-linkiniz.png" alt="Açıklama" width="600">
-</p>
-
-
-
-
-
+<table align="center">
+  <tr>
+    <td><img width="%100"  alt="image" src="https://github.com/user-attachments/assets/aecf59d7-8084-475a-96ec-24f05dfa5d0e" /><br><sub><b>correlation matrix of InceptionV3 model - InceptionV3 modelinin korelasyon matrisi</b></sub></td>
+  </tr>
+</table>
 
