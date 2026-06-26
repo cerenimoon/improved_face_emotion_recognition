@@ -56,10 +56,22 @@ InceptionV3 modelinde yaklaşık **63% validasyon doğruluk oranı** elde edilmi
 <br><b>InceptionV3 training and validation loss - InceptionV3 eğitim ve validasyon kaybı</b></td>
   </tr>
 </table>
-
+- Correlation matrix depicts alignment of true labels and predicted labels in terms of emotion classes of ferplus facial expression dataset. 
+Korelasyon matrisi
 <table align="center">
   <tr align="center">
     <td><img width="%100"  alt="image" src="https://github.com/user-attachments/assets/aecf59d7-8084-475a-96ec-24f05dfa5d0e" /><br><sub><b>correlation matrix of InceptionV3 model - InceptionV3 modelinin korelasyon matrisi</b></sub></td>
+  </tr>
+</table>
+
+##Dense performance metrics - Dense performans metrikleri 
+---
+- **Accuracy - Doğruluk:** Achieved a **66% validation accuracy rate** in Dense model.
+Dense modeline **66% validasyon doğruluk oranı** elde edilmiştir.
+
+<table align="center">
+  <tr align="center">
+    <td><img src="ekran1.png" width="300"><br><b>Mobil Görünüm</b></td>
   </tr>
 </table>
 
