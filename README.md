@@ -43,7 +43,6 @@ VGG19 modelinde yaklaşık **66% validasyon doğruluk oranı** elde edilmiştir.
     <td><img width="%100" alt="image" src="https://github.com/user-attachments/assets/5cf496d9-3d65-46ac-9176-25036fdeb039" /><br><b>correlation matrix of VGG19 model - VGG19 modelinin korelasyon matrisi</b></td>
   </tr>
 </table>
-<hr>
 
 ##InceptionV3 performance metrics - InceptionV3 performans metrikleri
 --- 
@@ -57,7 +56,7 @@ InceptionV3 modelinde yaklaşık **63% validasyon doğruluk oranı** elde edilmi
   </tr>
 </table>
 - Correlation matrix depicts alignment of true labels and predicted labels in terms of emotion classes of ferplus facial expression dataset. 
-Korelasyon matrisi
+Korelasyon matrisi ferplus veri setinin yüz görüntülerine ait duygu sınıflarının gerçek ve tahmin etiketlerinin uyuşma oranlarını göstermektedir. 
 <table align="center">
   <tr align="center">
     <td><img width="%100"  alt="image" src="https://github.com/user-attachments/assets/aecf59d7-8084-475a-96ec-24f05dfa5d0e" /><br><b>correlation matrix of InceptionV3 model - InceptionV3 modelinin korelasyon matrisi</b></td>
