@@ -16,7 +16,7 @@
    <img width="736" height="450" alt="image" src="https://github.com/user-attachments/assets/5059bc0b-696a-43e9-96d9-9fcc2a63f93a" />
 </p>
 <p>
-  
+  <img width="741" height="450" alt="image" src="https://github.com/user-attachments/assets/c345b6a4-e8c7-4267-9486-63081bb93741" />
 </p>
 - **Data Engineering:** Realized image preprocessing and data compression utilizing OpenCV and Keras features.
 
