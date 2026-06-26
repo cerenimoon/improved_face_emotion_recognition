@@ -31,7 +31,7 @@
 ---
 - **Accuracy - Doğruluk:** Achieved a **approximately 66% validation accuracy rate** in VGG16 model.
 VGG19 modelinde yaklaşık **66% validasyon doğruluk oranı** elde edilmiştir.
-- Correlation matrix depicts alignment of tru labels and predicted labels in terms of emotion classes of ferplus (test) facial expression dataset.
+- Correlation matrix depicts alignment of true labels and predicted labels in terms of emotion classes of ferplus (test) facial expression dataset.
 Korelasyon matrisi ferplus (test) veri setinin yüz görüntülerine ait duygu sınıflarının gerçek ve tahmin etiketlerinin uyuşma oranlarını göstermektedir. 
 
 <table align="center">
