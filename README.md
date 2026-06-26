@@ -14,12 +14,12 @@
  Dense, Inceptionv3 ve VGG19 modelleri Transfer Learning mimarisinde eğitilmiştir.
 <table align="center">
   <tr align="center">
-    <td><img width="70%"  alt="image" src="https://github.com/user-attachments/assets/5059bc0b-696a-43e9-96d9-9fcc2a63f93a" /><br><sub><b>VGG19 Transfer Learning model</b></sub></td>
-    <td><img width="70%"  alt="image" src="https://github.com/user-attachments/assets/c345b6a4-e8c7-4267-9486-63081bb93741" /><br><sub><b>Açıklama 2</b></sub></td>
+    <td><img width="100%"  alt="image" src="https://github.com/user-attachments/assets/5059bc0b-696a-43e9-96d9-9fcc2a63f93a" /><br><sub><b>VGG19 Transfer Learning model</b></sub></td>
+    <td><img width="100%"  alt="image" src="https://github.com/user-attachments/assets/c345b6a4-e8c7-4267-9486-63081bb93741" /><br><sub><b>InceptionV3 Transfer Learning model</b></sub></td>
   </tr>
 </table>
 
-- **Data Engineering:** Realized image preprocessing and data compression utilizing OpenCV and Keras features.
+- **Data Engineering:** Realized image preprocessing and data compression utilizing OpenCV and Keras features. Görüntü önişleme ve veri sıkıştırma işlemleri OpenCV ile Keras özellikleriyle gerçekleştirilmiştir. 
 
 ## 🛠️ Tech Stack & Architecture - Teknik Özellikler ve Mimari
 - **Code Alanı - Kod Alanı:** Python
@@ -27,4 +27,4 @@
 - **DevOps / Infrastructure - Geliştirme / Altyapı:** Kaggle, Jupyter Notebook, Git, Github
 
 ## 📊 Performance Metrics & Results - Performans Metrikleri ve Sonuçlar 
-- **Accuracy Improvement:** Achieved a **+5.2% increase in mAP@0.5** via advanced data augmentation and dataset engineering.
+- **Accuracy - Doğruluk:** Achieved a **+5.2% accuracy rate** in 
