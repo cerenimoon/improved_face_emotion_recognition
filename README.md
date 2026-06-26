@@ -11,7 +11,7 @@
 - **Custom Model Training - Özel Model Eğitimi:** Fine-tuned CNN architectures using Transfer Learning.
   CNN mimarileri Transfer Learning yöntemiyle veri setine (FER2013) uyarlanmıştır. 
 - **Model Architecture - Model Mimarisi:** Dense, Inceptionv3 and VGG19 models are trained with Transfer Learning structure.
- Dense, Inceptionv3 ve VGG19 modelleri Transfer Learning mimarisinde eğitilmiştir.
+ Dense, InceptionV3 ve VGG19 modelleri Transfer Learning mimarisinde eğitilmiştir.
 <table align="center">
   <tr align="center">
     <td><img width="100%"  alt="image" src="https://github.com/user-attachments/assets/5059bc0b-696a-43e9-96d9-9fcc2a63f93a" /><br><sub><b>VGG19 Transfer Learning model</b></sub></td>
@@ -23,10 +23,12 @@
 
 ## 🛠️ Tech Stack & Architecture - Teknik Özellikler ve Mimari
 - **Code Alanı - Kod Alanı:** Python
-- **AI / Computer Vision:**  OpenCV, Keras / Tensorflow
+- **Deep Learning Tools / Derin Öğrenme Araçları :**  OpenCV, Keras / Tensorflow
 - **DevOps / Infrastructure - Geliştirme / Altyapı:** Kaggle, Jupyter Notebook, Git, Github
 
 ## 📊 Performance Metrics & Results - Performans Metrikleri ve Sonuçlar 
+##VGG19 performance metrics - VGG19 performans metrikleri
+---
 - **Accuracy - Doğruluk:** Achieved a **approximately 66% validation accuracy rate** in VGG16 model.
 VGG19 modelinde yaklaşık 66% validasyon doğruluk oranı elde edilmiştir. 
 <table align="center">
@@ -38,9 +40,23 @@ VGG19 modelinde yaklaşık 66% validasyon doğruluk oranı elde edilmiştir.
 
 <table align="center">
   <tr align="center">
-    <td><img width="100%" alt="image" src="https://github.com/user-attachments/assets/5cf496d9-3d65-46ac-9176-25036fdeb039" /><br><sub><b>correlation matrix of VGG19 model - VGG19 modelinin korelasyon matrisi</b></sub></td>
+    <td><img width="%100" alt="image" src="https://github.com/user-attachments/assets/5cf496d9-3d65-46ac-9176-25036fdeb039" /><br><sub><b>correlation matrix of VGG19 model - VGG19 modelinin korelasyon matrisi</b></sub></td>
   </tr>
 </table>
+<hr>
+
+##InceptionV3 performance metrics -InceptionV3 performans metrikleri
+--- 
+- **Accuracy - Doğruluk**
+<table align="center">
+  <tr>
+    <td><img width="%100" alt="image" src="https://github.com/user-attachments/assets/81f3a266-9ac0-4525-9019-2a3a94394cb2" /><br><b>InceptionV3 training and validation accuracy - InceptionV3 eğitim ve validasyon doğrulul oranı</b></td>
+    <td><img src="ekran2.png" width="300"><br><b>Masaüstü Görünüm</b></td>
+  </tr>
+</table>
+
+
+
 
 
 
