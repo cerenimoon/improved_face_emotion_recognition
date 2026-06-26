@@ -13,9 +13,9 @@
 - **Model Architecture - Model Mimarisi:** Dense, Inceptionv3 and VGG19 models are trained with Transfer Learning structure.
  Dense, Inceptionv3 ve VGG19 modelleri Transfer Learning mimarisinde eğitilmiştir.
 <table align="center">
-  <tr>
-    <td> <img width="50%"  alt="image" src="https://github.com/user-attachments/assets/5059bc0b-696a-43e9-96d9-9fcc2a63f93a" /><br><sub><b>VGG19 Transfer Learning model</b></sub></td>
-    <td><img width="50%"  alt="image" src="https://github.com/user-attachments/assets/c345b6a4-e8c7-4267-9486-63081bb93741" /><br><sub><b>Açıklama 2</b></sub></td>
+  <tr align="center">
+    <td><img width="70%"  alt="image" src="https://github.com/user-attachments/assets/5059bc0b-696a-43e9-96d9-9fcc2a63f93a" /><br><sub><b>VGG19 Transfer Learning model</b></sub></td>
+    <td><img width="70%"  alt="image" src="https://github.com/user-attachments/assets/c345b6a4-e8c7-4267-9486-63081bb93741" /><br><sub><b>Açıklama 2</b></sub></td>
   </tr>
 </table>
 
