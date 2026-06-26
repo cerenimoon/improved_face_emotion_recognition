@@ -27,4 +27,17 @@
 - **DevOps / Infrastructure - Geliştirme / Altyapı:** Kaggle, Jupyter Notebook, Git, Github
 
 ## 📊 Performance Metrics & Results - Performans Metrikleri ve Sonuçlar 
-- **Accuracy - Doğruluk:** Achieved a **+5.2% accuracy rate** in 
+- **Accuracy - Doğruluk:** Achieved a **approximately 66% validation accuracy rate** in VGG16 model. 
+<table align="center">
+  <tr align="center">
+    <td><img src="ekran1.png" width="300"><br><b>Mobil Görünüm</b></td>
+    <td><img src="ekran2.png" width="300"><br><b>Masaüstü Görünüm</b></td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="gorsel-linkiniz.png" alt="Açıklama" width="600">
+</p>
+
+
+
