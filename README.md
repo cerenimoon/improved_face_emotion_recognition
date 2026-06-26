@@ -67,7 +67,7 @@ Korelasyon matrisi ferplus veri setinin yüz görüntülerine ait duygu sınıfl
 ##Dense performance metrics - Dense performans metrikleri 
 ---
 - **Accuracy - Doğruluk:** Achieved a **66% validation accuracy rate** in Dense model.
-Dense modeline **66% validasyon doğruluk oranı** elde edilmiştir.
+Dense modelinde **66% validasyon doğruluk oranı** elde edilmiştir.
 - Correlation matrix depicts alignment of true labels and predicted labels in terms of emotion classes of ferplus expression dataset.
 Korelasyon matrisi ferplus veri setinin yüz görüntülerine ait duygu sınıflarının gerçek ve tahmin etiketlerinin uyuşma oranlarını göstermektedir. 
 <table align="center">
