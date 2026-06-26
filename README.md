@@ -36,9 +36,11 @@ VGG19 modelinde yaklaşık 66% validasyon doğruluk oranı elde edilmiştir.
   </tr>
 </table>
 
-<p align="center">
-  <img src="gorsel-linkiniz.png" alt="Açıklama" width="600">
-</p>
+<table align="center">
+  <tr align="center">
+    <td><img width="100%" alt="image" src="https://github.com/user-attachments/assets/5cf496d9-3d65-46ac-9176-25036fdeb039" /><br><sub><b>correlation matrix of VGG19 model - VGG19 modelinin korelasyon matrisi</b></sub></td>
+  </tr>
+</table>
 
 
 
