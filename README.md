@@ -47,14 +47,7 @@ VGG19 modelinde yaklaşık **66% validasyon doğruluk oranı** elde edilmiştir.
 ##InceptionV3 performance metrics - InceptionV3 performans metrikleri
 --- 
 - **Accuracy - Doğruluk:** Achieved a **approximately 63% validation accuracy rate** in InceptionV3 model.
-InceptionV3 modelinde yaklaşık **63% validasyon doğruluk oranı** elde edilmiştir. 
-<table align="center">
-  <tr align="center">
-    <td><img width="%100" alt="image" src="https://github.com/user-attachments/assets/81f3a266-9ac0-4525-9019-2a3a94394cb2" /><br><b>InceptionV3 training and validation accuracy - InceptionV3 eğitim ve validasyon doğruluk oranı</b></td>
-    <td><img width="%100"  alt="image" src="https://github.com/user-attachments/assets/52e4ccec-8555-4ebb-9baf-3aa1827811ac" />
-<br><b>InceptionV3 training and validation loss - InceptionV3 eğitim ve validasyon kaybı</b></td>
-  </tr>
-</table>
+InceptionV3 modelinde yaklaşık **63% validasyon doğruluk oranı** elde edilmiştir.
 - Correlation matrix depicts alignment of true labels and predicted labels in terms of emotion classes of ferplus facial expression dataset. 
 Korelasyon matrisi ferplus veri setinin yüz görüntülerine ait duygu sınıflarının gerçek ve tahmin etiketlerinin uyuşma oranlarını göstermektedir. 
 <table align="center">
@@ -62,6 +55,14 @@ Korelasyon matrisi ferplus veri setinin yüz görüntülerine ait duygu sınıfl
     <td><img width="737" height="627"  alt="image" src="https://github.com/user-attachments/assets/aecf59d7-8084-475a-96ec-24f05dfa5d0e" /><br><b>correlation matrix of InceptionV3 model - InceptionV3 modelinin korelasyon matrisi</b></td>
   </tr>
 </table>
+<table align="center">
+  <tr align="center">
+    <td><img width="%100" alt="image" src="https://github.com/user-attachments/assets/81f3a266-9ac0-4525-9019-2a3a94394cb2" /><br><b>InceptionV3 training and validation accuracy - InceptionV3 eğitim ve validasyon doğruluk oranı</b></td>
+    <td><img width="%100"  alt="image" src="https://github.com/user-attachments/assets/52e4ccec-8555-4ebb-9baf-3aa1827811ac" />
+<br><b>InceptionV3 training and validation loss - InceptionV3 eğitim ve validasyon kaybı</b></td>
+  </tr>
+</table>
+
 
 ##Dense performance metrics - Dense performans metrikleri 
 ---
