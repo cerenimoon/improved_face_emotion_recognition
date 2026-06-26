@@ -48,10 +48,12 @@ Korelasyon matrisi ferplus (test) veri setinin yüz görüntülerine ait duygu s
 </table>
 ##InceptionV3 performance metrics - InceptionV3 performans metrikleri
 --- 
+
 - **Accuracy - Doğruluk:** Achieved a **approximately 63% validation accuracy rate** in InceptionV3 model.
 InceptionV3 modelinde yaklaşık **63% validasyon doğruluk oranı** elde edilmiştir.
 - Correlation matrix depicts alignment of true labels and predicted labels in terms of emotion classes of ferplus facial expression dataset. 
-Korelasyon matrisi ferplus veri setinin yüz görüntülerine ait duygu sınıflarının gerçek ve tahmin etiketlerinin uyuşma oranlarını göstermektedir. 
+Korelasyon matrisi ferplus veri setinin yüz görüntülerine ait duygu sınıflarının gerçek ve tahmin etiketlerinin uyuşma oranlarını göstermektedir.
+
 <table align="center">
   <tr align="center">
     <td><img width="666" height="666" alt="image" src="https://github.com/user-attachments/assets/5e505640-52d6-4385-a4fa-203a78d88c37" /><br><b>correlation matrix of InceptionV3 model - InceptionV3 modelinin korelasyon matrisi</b></td>
