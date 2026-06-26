@@ -45,15 +45,20 @@ VGG19 modelinde yaklaşık 66% validasyon doğruluk oranı elde edilmiştir.
 </table>
 <hr>
 
-##InceptionV3 performance metrics -InceptionV3 performans metrikleri
+##InceptionV3 performance metrics - InceptionV3 performans metrikleri
 --- 
 - **Accuracy - Doğruluk**
 <table align="center">
   <tr>
     <td><img width="%100" alt="image" src="https://github.com/user-attachments/assets/81f3a266-9ac0-4525-9019-2a3a94394cb2" /><br><b>InceptionV3 training and validation accuracy - InceptionV3 eğitim ve validasyon doğrulul oranı</b></td>
-    <td><img src="ekran2.png" width="300"><br><b>Masaüstü Görünüm</b></td>
+    <td><img width="%100"  alt="image" src="https://github.com/user-attachments/assets/52e4ccec-8555-4ebb-9baf-3aa1827811ac" />
+<br><b>InceptionV3 training and validation loss - InceptionV3 eğitim ve validasyon kaybı</b></td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="gorsel-linkiniz.png" alt="Açıklama" width="600">
+</p>
 
 
 
