@@ -27,11 +27,12 @@
 - **DevOps / Infrastructure - Geliştirme / Altyapı:** Kaggle, Jupyter Notebook, Git, Github
 
 ## 📊 Performance Metrics & Results - Performans Metrikleri ve Sonuçlar 
-- **Accuracy - Doğruluk:** Achieved a **approximately 66% validation accuracy rate** in VGG16 model. 
+- **Accuracy - Doğruluk:** Achieved a **approximately 66% validation accuracy rate** in VGG16 model.
+VGG19 modelinde yaklaşık 66% validasyon doğruluk oranı elde edilmiştir. 
 <table align="center">
   <tr align="center">
-    <td><img width="100%" alt="image" src="https://github.com/user-attachments/assets/f54e0337-b353-4ada-8554-89d926cd48cc" /><br><b>VGG19 training and validation accuracy - VGG19 eğitim ve validasyon doğruluk oranı</b></td>
-    <td><img src="ekran2.png" width="300"><br><b>Masaüstü Görünüm</b></td>
+    <td><img width="%100" alt="image" src="https://github.com/user-attachments/assets/f54e0337-b353-4ada-8554-89d926cd48cc" /><br><b>VGG19 training and validation accuracy - VGG19 eğitim ve validasyon doğruluk oranı</b></td>
+    <td><img width="%100"  alt="image" src="https://github.com/user-attachments/assets/2663ebe6-e37d-4e8b-8aef-5ac0d53e6c02" /><br><b>VGG10 training and validation loss - VGG19 eğitim ve validasyon kaybı</b></td>
   </tr>
 </table>
 
