@@ -30,20 +30,22 @@
 ##VGG19 performance metrics - VGG19 performans metrikleri
 ---
 - **Accuracy - Doğruluk:** Achieved a **approximately 66% validation accuracy rate** in VGG16 model.
-VGG19 modelinde yaklaşık **66% validasyon doğruluk oranı** elde edilmiştir. 
+VGG19 modelinde yaklaşık **66% validasyon doğruluk oranı** elde edilmiştir.
+- Correlation matrix depicts alignment of tru labels and predicted labels in terms of emotion classes of ferplus (test) facial expression dataset.
+Korelasyon matrisi ferplus (test) veri setinin yüz görüntülerine ait duygu sınıflarının gerçek ve tahmin etiketlerinin uyuşma oranlarını göstermektedir. 
+
+<table align="center">
+  <tr align="center">
+    <td><img width="666" height="666" alt="image" src="https://github.com/user-attachments/assets/5cf496d9-3d65-46ac-9176-25036fdeb039" /><br><b>correlation matrix of VGG19 model - VGG19 modelinin korelasyon matrisi</b></td>
+  </tr>
+</table>
+
 <table align="center">
   <tr align="center">
     <td><img width="%100" alt="image" src="https://github.com/user-attachments/assets/f54e0337-b353-4ada-8554-89d926cd48cc" /><br><b>VGG19 training and validation accuracy - VGG19 eğitim ve validasyon doğruluk oranı</b></td>
     <td><img width="%100"  alt="image" src="https://github.com/user-attachments/assets/2663ebe6-e37d-4e8b-8aef-5ac0d53e6c02" /><br><b>VGG10 training and validation loss - VGG19 eğitim ve validasyon kaybı</b></td>
   </tr>
 </table>
-
-<table align="center">
-  <tr align="center">
-    <td><img width="%100" alt="image" src="https://github.com/user-attachments/assets/5cf496d9-3d65-46ac-9176-25036fdeb039" /><br><b>correlation matrix of VGG19 model - VGG19 modelinin korelasyon matrisi</b></td>
-  </tr>
-</table>
-
 ##InceptionV3 performance metrics - InceptionV3 performans metrikleri
 --- 
 - **Accuracy - Doğruluk:** Achieved a **approximately 63% validation accuracy rate** in InceptionV3 model.
@@ -52,7 +54,7 @@ InceptionV3 modelinde yaklaşık **63% validasyon doğruluk oranı** elde edilmi
 Korelasyon matrisi ferplus veri setinin yüz görüntülerine ait duygu sınıflarının gerçek ve tahmin etiketlerinin uyuşma oranlarını göstermektedir. 
 <table align="center">
   <tr align="center">
-    <td><img width="636" height="666" alt="image" src="https://github.com/user-attachments/assets/5e505640-52d6-4385-a4fa-203a78d88c37" /><br><b>correlation matrix of InceptionV3 model - InceptionV3 modelinin korelasyon matrisi</b></td>
+    <td><img width="666" height="666" alt="image" src="https://github.com/user-attachments/assets/5e505640-52d6-4385-a4fa-203a78d88c37" /><br><b>correlation matrix of InceptionV3 model - InceptionV3 modelinin korelasyon matrisi</b></td>
   </tr>
 </table>
 <table align="center">
