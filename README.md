@@ -8,8 +8,16 @@
 </p>
 
 ## 🚀 Key Features - Anahtar Özellikler
-- **Custom Model Training - Özel Model Eğitimi:** Fine-tuned CNN architectures using Transfer Learning. CNN mimarileri Transfer Learning yöntemiyle veri setine (FER2013) uyarlanmıştır. 
-- **Model Optimization:** Converted PyTorch weights (`.pt`) to ONNX and TensorRT formats for edge deployment.
+- **Custom Model Training - Özel Model Eğitimi:** Fine-tuned CNN architectures using Transfer Learning.
+  CNN mimarileri Transfer Learning yöntemiyle veri setine (FER2013) uyarlanmıştır. 
+- **Model Architecture - Model Mimarisi:** Dense, Inceptionv3 and VGG19 models are trained with Transfer Learning structure.
+ Dense, Inceptionv3 ve VGG19 modelleri Transfer Learning mimarisinde eğitilmiştir. 
+<p align="center">
+   <img width="736" height="450" alt="image" src="https://github.com/user-attachments/assets/5059bc0b-696a-43e9-96d9-9fcc2a63f93a" />
+</p>
+<p>
+  
+</p>
 - **Data Engineering:** Realized image preprocessing and data compression utilizing OpenCV and Keras features.
 
 ## 🛠️ Tech Stack & Architecture - Teknik Özellikler ve Mimari
@@ -17,5 +25,5 @@
 - **AI / Computer Vision:**  OpenCV, Keras / Tensorflow
 - **DevOps / Infrastructure - Geliştirme / Altyapı:** Kaggle, Jupyter Notebook, Git, Github
 
-## 📊 Performance Metrics & Results
+## 📊 Performance Metrics & Results - Performans Metrikleri ve Sonuçlar 
 - **Accuracy Improvement:** Achieved a **+5.2% increase in mAP@0.5** via advanced data augmentation and dataset engineering.
