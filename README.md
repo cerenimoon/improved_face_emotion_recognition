@@ -59,7 +59,7 @@ InceptionV3 modelinde yaklaşık **63% validasyon doğruluk oranı** elde edilmi
 Korelasyon matrisi ferplus veri setinin yüz görüntülerine ait duygu sınıflarının gerçek ve tahmin etiketlerinin uyuşma oranlarını göstermektedir. 
 <table align="center">
   <tr align="center">
-    <td><img width="%100"  alt="image" src="https://github.com/user-attachments/assets/aecf59d7-8084-475a-96ec-24f05dfa5d0e" /><br><b>correlation matrix of InceptionV3 model - InceptionV3 modelinin korelasyon matrisi</b></td>
+    <td><img width="737" height="627"  alt="image" src="https://github.com/user-attachments/assets/aecf59d7-8084-475a-96ec-24f05dfa5d0e" /><br><b>correlation matrix of InceptionV3 model - InceptionV3 modelinin korelasyon matrisi</b></td>
   </tr>
 </table>
 
