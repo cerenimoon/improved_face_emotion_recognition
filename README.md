@@ -46,6 +46,7 @@ Korelasyon matrisi ferplus (test) veri setinin yüz görüntülerine ait duygu s
     <td><img width="%100"  alt="image" src="https://github.com/user-attachments/assets/2663ebe6-e37d-4e8b-8aef-5ac0d53e6c02" /><br><b>VGG10 training and validation loss - VGG19 eğitim ve validasyon kaybı</b></td>
   </tr>
 </table>
+
 ##InceptionV3 performance metrics - InceptionV3 performans metrikleri
 --- 
 
